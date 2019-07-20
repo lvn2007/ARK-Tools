@@ -1,0 +1,26 @@
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoItX3.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoItX3_x64.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ARK Tools.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ARK Tools.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ARK Tools.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ARK_Tools.Form2.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ARK_Tools.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ARK_Tools.csproj.GenerateResource.Cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ARK_Tools.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ARK Tools.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ARK Tools.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ARK_Tools.csprojResolveAssemblyReference.cache
+D:\C#\ARK_Tools\WindowsFormsApp1\bin\Debug\AutoItX3.dll
+D:\C#\ARK_Tools\WindowsFormsApp1\bin\Debug\AutoItX3_x64.dll
+D:\C#\ARK_Tools\WindowsFormsApp1\bin\Debug\ARK Tools.exe.config
+D:\C#\ARK_Tools\WindowsFormsApp1\bin\Debug\ARK Tools.exe
+D:\C#\ARK_Tools\WindowsFormsApp1\bin\Debug\ARK Tools.pdb
+D:\C#\ARK_Tools\WindowsFormsApp1\obj\Debug\ARK_Tools.csprojAssemblyReference.cache
+D:\C#\ARK_Tools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\C#\ARK_Tools\WindowsFormsApp1\obj\Debug\ARK_Tools.Form2.resources
+D:\C#\ARK_Tools\WindowsFormsApp1\obj\Debug\ARK_Tools.Properties.Resources.resources
+D:\C#\ARK_Tools\WindowsFormsApp1\obj\Debug\ARK_Tools.csproj.GenerateResource.cache
+D:\C#\ARK_Tools\WindowsFormsApp1\obj\Debug\ARK_Tools.csproj.CoreCompileInputs.cache
+D:\C#\ARK_Tools\WindowsFormsApp1\obj\Debug\ARK Tools.exe
+D:\C#\ARK_Tools\WindowsFormsApp1\obj\Debug\ARK Tools.pdb
